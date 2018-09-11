@@ -1,5 +1,5 @@
 # Roomies
-An expense sharing application with pre-defines users.
+An expense sharing web application built for a set of users.
 
 <h4 style='text-decoration:underline;'>Stack used:</h4>
 <ul>
