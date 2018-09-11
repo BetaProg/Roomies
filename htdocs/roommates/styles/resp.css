@@ -1,0 +1,32 @@
+
+@media only screen and (min-width: 500px) {
+
+	#center_content {
+		display:none;
+	}
+	#top_content {
+		display:none;
+	}
+	#errorit {
+		display:inline;
+	}
+	#errorit p {
+		text-align:center;
+		font-size:25px;
+		font-family:century Gothic;
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:2%;
+		
+	}
+}
+@media only screen and (max-width: 500px) {
+
+	#center_content {
+		display:block;
+	}
+	#errorit {
+		display:none;
+	}
+}

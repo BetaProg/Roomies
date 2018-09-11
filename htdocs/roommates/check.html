@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body onload="checkit()">
+
+Checkbox: <input type="checkbox" id="myCheck" />
+
+<button name="somecheck" id="somewhatcheck" onload="checkit()">Me</button>
+<script>
+
+	function checkit(){
+	var status = false;
+    	document.getElementById('myCheck').checked = status;
+		//document.getElementById('somewhatcheck').style='display:none';
+    }
+</script>
+</body>
+</html>

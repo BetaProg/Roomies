@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+Checkbox: <input type="checkbox" onload="checkit();" id="myCheck">
+
+<script>
+var status = true;
+	function checkit(){
+    	document.getElementById('myCheck').checked=status;
+    }
+</script>
+<button onclick="check()">Check Checkbox</button>
+<button onclick="uncheck()">Uncheck Checkbox</button>
+
+<script>
+function check() {
+    document.getElementById("myCheck").checked = true;
+}
+
+function uncheck() {
+    document.getElementById("myCheck").checked = false;
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+Roommates :
+--------------
+Objective : Expense sharing - 
+1. Categories - a. Food -icon*
+				b. Detergents -icon*
+				c. Maid
+				d. Water -icon*
+				e. Electricity -icon*
+				f. Internet -icon*
+				g. Room necessities 
+				h. Miscellaneous
+
+2. Members : 1. Guru Prasad
+			 2. Hemanth
+			 3. Srinivas
+			 4. Venkat
+			 5. Vikram
+			 6. Any Other (+)
+			 
+3. Platform : 1. Web
+			  2. Android
+			  
+
+
+					   
